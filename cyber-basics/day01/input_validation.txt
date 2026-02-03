@@ -1,0 +1,13 @@
+Day 01 - Cyber Security Basics
+
+Topic: Input Validation
+
+Meaning:
+Input validation means checking data before using it.
+
+Example:
+Age should not be negative.
+
+Why important:
+Invalid or wrong input can break programs
+or lead to security issues.
