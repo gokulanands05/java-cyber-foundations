@@ -1,0 +1,13 @@
+Day 02 - Cyber Security Basics
+
+Topic: Data Handling
+
+Meaning:
+Data should be stored and used correctly.
+
+Why important:
+Wrong or unexpected data can cause
+logic errors or security problems.
+
+Example:
+Age should not be negative.
