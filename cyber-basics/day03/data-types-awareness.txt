@@ -1,0 +1,14 @@
+Day 03 - Cyber Security Basics
+
+Topic: Data Type Awareness
+
+Meaning:
+Choosing correct data types helps
+prevent logical and security issues.
+
+Why important:
+Wrong data or type mismatch
+can lead to unexpected behavior.
+
+Example:
+Age should be a positive number.
