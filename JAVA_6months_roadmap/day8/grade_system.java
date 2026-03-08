@@ -8,13 +8,13 @@ class grade_system {
 		
 		if (mark1 >= mark2) {
 			
-			System.out.println("A");
+			System.out.println("Pass");
 			
 			
 			
 		}
 		else {
-			System.out.println("B");
+			System.out.println("Low grade");
 		}
 	}
 
