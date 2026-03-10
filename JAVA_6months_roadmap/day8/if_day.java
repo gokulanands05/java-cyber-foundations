@@ -9,11 +9,11 @@
 		
 		if(a>=1) {
 			
-			System.out.println("postive");	
+			System.out.println("Postive");	
 		}
 		else
 		{
-			System.out.println("Negative");
+			System.out.println("negative");
 		}
 
 	}
